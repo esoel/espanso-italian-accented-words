@@ -2,7 +2,7 @@
 package_name: "italian-accented-words"
 package_title: "Italian accented words"
 package_desc: "List of substitutions of Italian accented words"
-package_version: "0.1.0"
+package_version: "0.1.1"
 package_author: "Alessandro Cantini"
 package_repo: "https://github.com/aecant/espanso-italian-accented-words.git"
 ---

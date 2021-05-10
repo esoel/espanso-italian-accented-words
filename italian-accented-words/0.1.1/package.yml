@@ -14626,10 +14626,6 @@ matches:
   replace: c'è
   word: true
   propagate_case: true
-- trigger: c'e
-  replace: c'è
-  word: true
-  propagate_case: true
 - trigger: cecita
   replace: cecità
   word: true
@@ -26812,10 +26808,6 @@ matches:
   propagate_case: true
 - trigger: durro
   replace: durrò
-  word: true
-  propagate_case: true
-- trigger: e
-  replace: è
   word: true
   propagate_case: true
 - trigger: eberra
